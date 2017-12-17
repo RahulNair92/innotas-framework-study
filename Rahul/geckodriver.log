@@ -1,0 +1,164 @@
+1495662619581	geckodriver	INFO	Listening on 127.0.0.1:53846
+1495662619624	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495662621209	Marionette	INFO	Listening on port 53853
+1495662621285	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-24 14:50:21.578 plugin-container[1404:81969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-24 14:50:21.580 plugin-container[1404:81969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1495662637630	Marionette	INFO	New connections will no longer be accepted
+1495662683351	geckodriver	INFO	Listening on 127.0.0.1:53988
+1495662683391	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495662684953	Marionette	INFO	Listening on port 53995
+1495662685123	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-24 14:51:25.434 plugin-container[1420:83121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-24 14:51:25.436 plugin-container[1420:83121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1495662697527	Marionette	INFO	New connections will no longer be accepted
+1513443534501	geckodriver	INFO	geckodriver 0.19.0
+1513443534532	geckodriver	INFO	Listening on 127.0.0.1:6581
+1513443535032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JITHU_~1\\AppData\\Local\\Temp\\rust_mozprofile.67z6P3SfVS1r"
+1513443537523	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1513443539705	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513443562290	Marionette	INFO	Listening on port 6586
+1513443563174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513443563414	Marionette	DEBUG	Register listener.js for window 4294967297
+1513443564073	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513443566300	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513443566301	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513443572887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1513443575581	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1513443576387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513443581140	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443584407	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443584422	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443585162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1513443585263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1513443585264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513443585264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1513443585266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1513443586792	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1513443587194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513443646403	Marionette	INFO	New connections will no longer be accepted
+1513443647306	geckodriver	INFO	geckodriver 0.19.0
+1513443647321	geckodriver	INFO	Listening on 127.0.0.1:6732
+1513443647715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JITHU_~1\\AppData\\Local\\Temp\\rust_mozprofile.msWMdRTn0U5X"
+1513443649030	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1513443650159	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513443653734	Marionette	INFO	Listening on port 6736
+1513443654234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513443654307	Marionette	DEBUG	Register listener.js for window 4294967297
+1513443654399	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513443655988	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513443655989	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513443657731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1513443662309	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1513443662556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1513443662683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513443664729	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443668391	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443668402	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443668825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1513443668834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1513443668835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1513443668835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1513443668836	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1513443670132	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1513443670588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513443670801	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1513443671212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1513443672165	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1513443672184	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1513443672528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1513443672564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1513443672564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513443672565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1513443672814	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1513443673213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513443674697	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443675561	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443675568	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443675962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1513443676001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1513443676002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1513443676002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1513443676002	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1513443676368	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1513443676605	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1513443677712	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1513443677723	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1513443678191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443678239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1513443678239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1513443678240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1513443678240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1513443678456	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443678794	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443679600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1513443680558	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443680575	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1513443681017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1513443681068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1513443681068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1513443681070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1513443681303	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1513443681602	Marionette	INFO	New connections will no longer be accepted
+1513505135515	geckodriver	INFO	geckodriver 0.19.0
+1513505135546	geckodriver	INFO	Listening on 127.0.0.1:8358
+1513505136546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JITHU_~1\\AppData\\Local\\Temp\\rust_mozprofile.I7OmfvDQhEUu"
+1513505139638	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1513505142263	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513505152142	Marionette	INFO	Listening on port 8362
+1513505152399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513505152529	Marionette	DEBUG	Register listener.js for window 6442450945
+1513505152676	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513505155419	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513505155420	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513505157071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1513505158354	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1513505228615	Marionette	INFO	New connections will no longer be accepted
+1513505229210	geckodriver	INFO	geckodriver 0.19.0
+1513505229226	geckodriver	INFO	Listening on 127.0.0.1:8457
+1513505229851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JITHU_~1\\AppData\\Local\\Temp\\rust_mozprofile.da9YDlGW8cgK"
+1513505231060	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1513505232514	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9816] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513505235990	Marionette	INFO	Listening on port 8461
+1513505236328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513505236377	Marionette	DEBUG	Register listener.js for window 4294967297
+1513505236448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513505243390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513505243390	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513505244570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1513505245929	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1513505246400	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1513505250080	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1513505250081	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1513505250213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1513505250263	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1513505253479	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1513505255265	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1513505255265	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1513505257821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1513505257823	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171214201932, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171214201932, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171214201932, line 1: unreachable code after return statement
+1513505264346	Marionette	INFO	New connections will no longer be accepted

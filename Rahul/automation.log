@@ -1,0 +1,100 @@
+12/17/2017 03:35:34 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:35:34 PM - LoginTests - INFO: test_t1invalidLogin started
+12/17/2017 03:35:34 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:35:34 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:35:34 PM - LoginTests - INFO: test_validLogin started
+12/17/2017 03:35:34 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:36:01 PM - NavigationPage - INFO: Element not found with locator: My Courses and  locatorType: link
+12/17/2017 03:36:01 PM - NavigationPage - INFO: Cannot click on the element with locator: My Courses locatorType: link
+12/17/2017 03:36:04 PM - RegisterCoursesPage - INFO: Element not found with locator: search-courses and  locatorType: id
+12/17/2017 03:36:04 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+12/17/2017 03:36:07 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+12/17/2017 03:36:07 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+12/17/2017 03:36:10 PM - RegisterCoursesPage - INFO: Element not found with locator: enroll-button-top and  locatorType: id
+12/17/2017 03:36:10 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
+12/17/2017 03:36:13 PM - RegisterCoursesPage - INFO: Element not found with locator: cc_field and  locatorType: id
+12/17/2017 03:36:13 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cc_field locatorType: id
+12/17/2017 03:36:16 PM - RegisterCoursesPage - INFO: Element not found with locator: cc-exp and  locatorType: id
+12/17/2017 03:36:16 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cc-exp locatorType: id
+12/17/2017 03:36:19 PM - RegisterCoursesPage - INFO: Element not found with locator: cc_cvc and  locatorType: id
+12/17/2017 03:36:19 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cc_cvc locatorType: id
+12/17/2017 03:36:22 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[@id='new_card']//button[contains(text(),'Enroll in Course')] and  locatorType: xpath
+12/17/2017 03:36:22 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[@id='new_card']//button[contains(text(),'Enroll in Course')] locatorType: xpath
+12/17/2017 03:36:22 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/17/2017 03:36:33 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+12/17/2017 03:36:33 PM - RegisterCoursesPage - INFO: Element not displayed
+12/17/2017 03:36:33 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed Verification
+12/17/2017 03:36:33 PM - TestStatus - INFO: Screenshot save to directory: C:\Python_Workspace\Rahul\base\../screenshots/Enrollment Failed Verification.1513505193345.png
+12/17/2017 03:36:33 PM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED
+12/17/2017 03:36:36 PM - NavigationPage - INFO: Element not found with locator: My Courses and  locatorType: link
+12/17/2017 03:36:36 PM - NavigationPage - INFO: Cannot click on the element with locator: My Courses locatorType: link
+12/17/2017 03:36:39 PM - RegisterCoursesPage - INFO: Element not found with locator: search-courses and  locatorType: id
+12/17/2017 03:36:39 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+12/17/2017 03:36:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and  locatorType: xpath
+12/17/2017 03:36:42 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+12/17/2017 03:36:45 PM - RegisterCoursesPage - INFO: Element not found with locator: enroll-button-top and  locatorType: id
+12/17/2017 03:36:45 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
+12/17/2017 03:36:48 PM - RegisterCoursesPage - INFO: Element not found with locator: cc_field and  locatorType: id
+12/17/2017 03:36:48 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cc_field locatorType: id
+12/17/2017 03:36:51 PM - RegisterCoursesPage - INFO: Element not found with locator: cc-exp and  locatorType: id
+12/17/2017 03:36:51 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cc-exp locatorType: id
+12/17/2017 03:36:54 PM - RegisterCoursesPage - INFO: Element not found with locator: cc_cvc and  locatorType: id
+12/17/2017 03:36:54 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cc_cvc locatorType: id
+12/17/2017 03:36:57 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[@id='new_card']//button[contains(text(),'Enroll in Course')] and  locatorType: xpath
+12/17/2017 03:36:57 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[@id='new_card']//button[contains(text(),'Enroll in Course')] locatorType: xpath
+12/17/2017 03:36:57 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/17/2017 03:37:08 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+12/17/2017 03:37:08 PM - RegisterCoursesPage - INFO: Element not displayed
+12/17/2017 03:37:08 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed Verification
+12/17/2017 03:37:08 PM - TestStatus - INFO: Screenshot save to directory: C:\Python_Workspace\Rahul\base\../screenshots/Enrollment Failed Verification.1513505228477.png
+12/17/2017 03:37:08 PM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED
+12/17/2017 03:37:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:37:25 PM - LoginTests - INFO: test_t1invalidLogin started
+12/17/2017 03:37:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:37:25 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:25 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/17/2017 03:37:26 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/17/2017 03:37:30 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/17/2017 03:37:30 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element not found with locator: //img[contains(@alt,'Admin testing User')] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element not found with locator: //img[contains(@alt,'Admin testing User')] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element not present with locator: //img[contains(@alt,'Admin testing User')] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element not present with locator: //img[contains(@alt,'Admin testing User')] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:37:33 PM - LoginTests - INFO: test_validLogin started
+12/17/2017 03:37:33 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/17/2017 03:37:33 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/17/2017 03:37:37 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/17/2017 03:37:37 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/17/2017 03:37:37 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/17/2017 03:37:37 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/17/2017 03:37:44 PM - LoginPage - INFO: Element appeared on the web page
+12/17/2017 03:37:44 PM - LoginPage - INFO: Element appeared on the web page
+12/17/2017 03:37:44 PM - LoginPage - INFO: Element found with locator: //img[contains(@alt,'Admin testing User')] and  locatorType: xpath
+12/17/2017 03:37:44 PM - LoginPage - INFO: Element found with locator: //img[contains(@alt,'Admin testing User')] and  locatorType: xpath
+12/17/2017 03:37:44 PM - LoginPage - INFO: Element present with locator: //img[contains(@alt,'Admin testing User')] locatorType: xpath
+12/17/2017 03:37:44 PM - LoginPage - INFO: Element present with locator: //img[contains(@alt,'Admin testing User')] locatorType: xpath
