@@ -1,6 +1,6 @@
 import pytest
 from base.webdriverfactory import WebDriverFactory
-from pages.home.login_page import LoginPage
+from pages.home.login_page_innotas import LoginPage
 
 @pytest.yield_fixture()
 #@pytest.fixture()
@@ -15,14 +15,14 @@ def oneTimeSetUp(request, browser):
     print("Running one time setUp")
     wdf = WebDriverFactory(browser)
     driver = wdf.getWebDriverInstance()
-    # lp = LoginPage(driver)
-    # lp.login("test@email.com", "abcabc")
+    lp = LoginPage(driver)
+    lp.login("masterq3", "innotas")
 
 
     if request.cls is not None:
         request.cls.driver = driver
     yield driver
-    driver.quit()
+    # driver.quit()
     print("Running one time tearDown")
 
 def pytest_addoption(parser):

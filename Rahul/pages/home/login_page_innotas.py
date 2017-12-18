@@ -2,6 +2,8 @@ import utilities.custom_logger as cl
 from pages.home.nav import nav_bar
 import logging
 from base.basepage import BasePage
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 
 class LoginPage(BasePage):
 
@@ -50,6 +52,7 @@ class LoginPage(BasePage):
         return result
 
     def verifyLoginFailed(self):
+        self.waitForElement(locator=nav_bar._userIcon_, locatorType="xpath")
         result = self.isElementPresent(locator=nav_bar._userIcon_,
                                        locatorType="xpath")
         return result
@@ -61,10 +64,12 @@ class LoginPage(BasePage):
         return self.verifyPageTitle("Let's Kode It")
 
     def logout(self):
-        self.nav.navigateToUserSettings()
-        logoutLinkElement = self.waitForElement(locator="//div[@id='navbar']//a[@href='/sign_out']",
+        # self.nav.navigateToUserSettings()
+        logoutLinkElement = self.waitForElement(locator="//*[@id='splitbutton-1069-btnWrap']/following::span[1]",
                           locatorType="xpath", pollFrequency=1)
-        #self.elementClick(element=logoutLinkElement)
-        self.elementClick(locator="//div[@id='navbar']//a[@href='/sign_out']",
-                          locatorType="xpath")
-
+        action1= ActionChains(self.driver)
+        # action1.send_keys_to_element(logoutLinkElement, Keys.ARROW_DOWN).perform()
+        action1.move_to_element(logoutLinkElement).click(logoutLinkElement).perform()
+        logout= self.getElement(locator="//*[@id='menuitem-1075-textEl' and contains(text(),'Logout')]", locatorType="xpath")
+        logout.click()
+        self.log.info("logout from application")

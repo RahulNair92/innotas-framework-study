@@ -8,6 +8,7 @@ import logging
 import time
 import os
 
+
 class SeleniumDriver():
 
     log = cl.customLogger(logging.DEBUG)
@@ -224,6 +225,7 @@ class SeleniumDriver():
             self.log.info("Element appeared on the web page")
         except:
             self.log.info("Element not appeared on the web page")
+            self.screenShot("element not found")
             print_stack()
         return element
 
