@@ -1,4 +1,4 @@
-12/18/2017 08:57:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+ 12/18/2017 08:57:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
 12/18/2017 08:57:03 PM - LoginTests - INFO: test_t1invalidLogin started
 12/18/2017 08:57:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
 12/18/2017 08:57:29 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
@@ -202,3 +202,221 @@
 12/18/2017 10:35:33 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
 12/18/2017 10:35:43 PM - LoginPage - INFO: Element appeared on the web page
 12/18/2017 10:35:45 PM - LoginPage - INFO: Element found with locator: //*[@id='menuitem-1075-textEl' and contains(text(),'Logout')] and  locatorType: xpath
+12/24/2017 10:05:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:05:14 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:05:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:05:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:05:14 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:05:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:16:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:16:22 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:16:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:16:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:16:22 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:16:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:32 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:17:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:32 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:17:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:56 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:17:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:17:56 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:17:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:26:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:26:39 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:26:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:26:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:26:39 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:26:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:27:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:27:39 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:27:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:27:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:27:39 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:27:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:31:35 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:31:35 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:31:35 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:31:35 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:31:35 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:31:35 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:34:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:34:15 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:34:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:34:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:34:15 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:34:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:40:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:40:18 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:40:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:40:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:40:18 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:40:18 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:42:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:42:15 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:42:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:42:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:42:15 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:42:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:46:40 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:46:40 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:46:40 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:46:40 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:46:40 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:46:40 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:52:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:52:15 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:52:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:52:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:52:15 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:52:15 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:53:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:53:47 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:53:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:53:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:53:47 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:53:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:16 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:54:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:16 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:54:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:53 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:53 PM - LoginTests - INFO: test_t1invalidLogin started
+12/24/2017 10:54:53 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:53 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/24/2017 10:54:53 PM - LoginTests - INFO: test_validLogin started
+12/24/2017 10:54:53 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 11:50:07 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 11:50:07 AM - LoginTests - INFO: test_t1invalidLogin started
+12/25/2017 11:50:07 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 11:50:07 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 11:50:07 AM - LoginTests - INFO: test_validLogin started
+12/25/2017 11:50:07 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:29:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:29:25 PM - LoginTests - INFO: test_t1invalidLogin started
+12/25/2017 01:29:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:29:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:29:25 PM - LoginTests - INFO: test_validLogin started
+12/25/2017 01:29:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:31:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:31:32 PM - LoginTests - INFO: test_t1invalidLogin started
+12/25/2017 01:31:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:31:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/25/2017 01:31:32 PM - LoginTests - INFO: test_validLogin started
+12/25/2017 01:31:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:24:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:24:30 PM - LoginTests - INFO: test_t1invalidLogin started
+12/27/2017 07:24:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:24:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:24:30 PM - LoginTests - INFO: test_validLogin started
+12/27/2017 07:24:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:25:19 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/27/2017 07:25:19 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/27/2017 07:25:19 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/27/2017 07:25:20 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/27/2017 07:25:20 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/27/2017 07:25:20 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/27/2017 07:25:20 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/27/2017 07:25:24 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/27/2017 07:25:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:25:24 PM - LoginTests - INFO: test_t1invalidLogin started
+12/27/2017 07:25:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:25:24 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/27/2017 07:25:33 PM - LoginPage - INFO: Element appeared on the web page
+12/27/2017 07:25:34 PM - LoginPage - INFO: Element found with locator: //*[@id='menuitem-1075-textEl' and contains(text(),'Logout')] and  locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: logout from application
+12/27/2017 07:25:40 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/27/2017 07:25:40 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/27/2017 07:25:44 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/27/2017 07:25:44 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/27/2017 07:25:54 PM - LoginPage - INFO: Element not appeared on the web page
+12/27/2017 07:25:55 PM - LoginPage - ERROR: ### Exception Occurred when taking screenshot
+12/27/2017 07:25:55 PM - LoginPage - INFO: Element not found with locator: //img[contains(@alt,'Admin testing User')] and  locatorType: xpath
+12/27/2017 07:25:55 PM - LoginPage - INFO: Element not present with locator: //img[contains(@alt,'Admin testing User')] locatorType: xpath
+12/27/2017 07:25:55 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + testing invalid login
+12/27/2017 07:25:55 PM - TestStatus - INFO: test_t1invalidLogin ### TEST SUCCESSFUL
+12/27/2017 07:25:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:25:55 PM - LoginTests - INFO: test_validLogin started
+12/27/2017 07:25:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/27/2017 07:25:55 PM - LoginPage - INFO: Element not found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 12:46:25 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 12:46:26 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 12:46:26 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 12:46:26 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 12:46:26 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 12:46:26 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 12:46:26 AM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 12:46:31 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 12:46:31 AM - newResourceTest - INFO: ####################
+12/29/2017 12:46:31 AM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 12:46:31 AM - newResourceTest - INFO: ####################
+12/29/2017 12:46:34 AM - nav_bar - INFO: Element not found with locator: //a[@aria-label='Projects:'] and  locatorType: xpath
+12/29/2017 12:46:34 AM - nav_bar - INFO: Cannot click on the element with locator: //a[@aria-label='Projects:'] locatorType: xpath
+12/29/2017 12:58:23 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 12:58:24 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 12:58:24 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 12:58:25 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 12:58:25 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 12:58:26 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 12:58:26 AM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 12:58:33 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 12:58:33 AM - newResourceTest - INFO: ####################
+12/29/2017 12:58:33 AM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 12:58:33 AM - newResourceTest - INFO: ####################
+12/29/2017 01:05:22 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:05:22 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:05:22 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:05:22 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 01:05:22 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:05:22 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 01:05:22 AM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 01:05:27 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 01:05:27 AM - newResourceTest - INFO: ####################
+12/29/2017 01:05:27 AM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 01:05:27 AM - newResourceTest - INFO: ####################
+12/29/2017 01:10:03 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:10:03 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:10:03 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:10:03 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 01:10:03 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:10:03 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 01:10:03 AM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 01:10:08 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 01:10:08 AM - newResourceTest - INFO: ####################
+12/29/2017 01:10:08 AM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 01:10:08 AM - newResourceTest - INFO: ####################
+12/29/2017 01:19:48 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:19:48 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:19:49 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:19:49 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 01:19:49 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:19:49 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 01:19:49 AM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 01:19:54 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 01:19:54 AM - newResourceTest - INFO: ####################
+12/29/2017 01:19:54 AM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 01:19:54 AM - newResourceTest - INFO: ####################
+12/29/2017 01:19:54 AM - ResourcePage - INFO: ####################
+12/29/2017 01:19:54 AM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 01:29:09 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:29:09 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:29:09 AM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 01:29:09 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 01:29:09 AM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 01:29:09 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 01:29:09 AM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 01:29:13 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 01:29:13 AM - newResourceTest - INFO: ####################
+12/29/2017 01:29:13 AM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 01:29:13 AM - newResourceTest - INFO: ####################

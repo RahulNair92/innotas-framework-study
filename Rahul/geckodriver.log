@@ -1178,3 +1178,205 @@ Unable to read VR Path Registry from C:\Users\jithu_000\AppData\Local\openvr\ope
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1514188765891	geckodriver	INFO	geckodriver 0.19.1
+1514188765953	geckodriver	INFO	Listening on 127.0.0.1:50613
+1514188768349	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.c1C2d7sUlxJM"
+1514188892650	geckodriver	INFO	geckodriver 0.19.1
+1514188892667	geckodriver	INFO	Listening on 127.0.0.1:50630
+1514188894701	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.XxFI7V2kLdRA"
+1514188901686	Marionette	INFO	Listening on port 50636
+1514188902282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1514188920349	Marionette	INFO	Ceased listening
+1514382870938	geckodriver	INFO	geckodriver 0.19.1
+1514382870984	geckodriver	INFO	Listening on 127.0.0.1:49230
+1514382873215	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.FhZ6o64q1zrl"
+1514382882380	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514382888162	Marionette	INFO	Enabled via --marionette
+[Child 168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514382911084	Marionette	INFO	Listening on port 49237
+1514382911556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514382911705	Marionette	DEBUG	Register listener.js for window 6442450945
+1514382912032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514382915575	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514382915576	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514382918580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514382919154	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1514382920349	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1514382922200	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514382922201	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514382924323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514382924328	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171226222020, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171226222020, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171226222020, line 1: unreachable code after return statement
+1514382936236	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514382938406	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514382938410	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514382939728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qalogin.innotas.io/index.jsp"
+1514382940294	Marionette	DEBUG	Received DOM event "pageshow" for "https://qalogin.innotas.io/index.jsp"
+1514382940801	Marionette	DEBUG	Received DOM event "beforeunload" for "https://qalogin.innotas.io/index.jsp"
+1514382943724	Marionette	DEBUG	Received DOM event "pagehide" for "https://qalogin.innotas.io/index.jsp"
+1514382943725	Marionette	DEBUG	Received DOM event "unload" for "https://qalogin.innotas.io/index.jsp"
+1514382944095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514382944153	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+[Parent 4220] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4564] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514488424182	geckodriver	INFO	geckodriver 0.19.1
+1514488424276	geckodriver	INFO	Listening on 127.0.0.1:55029
+1514488427349	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.SbIOxaJsYk48"
+1514488558982	geckodriver	INFO	geckodriver 0.19.1
+1514488558997	geckodriver	INFO	Listening on 127.0.0.1:55215
+1514488561150	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.tAEG88D2i5SQ"
+1514488565261	Marionette	INFO	Enabled via --marionette
+1514488575046	Marionette	INFO	Listening on port 55221
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514488575345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514488576919	Marionette	DEBUG	Register listener.js for window 4294967297
+1514488580743	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514488582622	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514488582623	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514488584936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514488585773	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1514488586928	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1514488588745	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514488588746	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514488591176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514488591183	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript error: chrome://browser/content/browser.js, line 6700: TypeError: cannot use the given object as a weak map key
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 228: TypeError: this._builder is undefined
+[Parent 2992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 2992, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514489284469	Marionette	INFO	Listening on port 55803
+1514489285656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514489286275	Marionette	DEBUG	Register listener.js for window 4294967297
+1514489291865	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514489294111	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514489294112	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514489301041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514489303723	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1514489307129	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1514489308953	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514489308954	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514489313464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514489313469	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+[Parent 4212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514489684203	geckodriver	INFO	geckodriver 0.19.1
+1514489684225	geckodriver	INFO	Listening on 127.0.0.1:55917
+1514489685418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.6bSX4tjY4DU3"
+1514489703869	Marionette	INFO	Enabled via --marionette
+[Child 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514489713098	Marionette	INFO	Listening on port 55923
+1514489713963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514489714283	Marionette	DEBUG	Register listener.js for window 4294967297
+1514489718210	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514489720052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514489720053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514489721586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514489722323	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1514489722893	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1514489725000	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514489725001	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514489727219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514489727230	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript error: chrome://browser/content/browser.js, line 6700: TypeError: cannot use the given object as a weak map key
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 5220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+, line 346
+1514489995675	Marionette	DEBUG	Register listener.js for window 4294967297
+1514489999529	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514490001125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514490001126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514490002418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514490003425	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1514490003956	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1514490005750	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514490005752	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514490008252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514490008258	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+[Parent 4836, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FA,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+e	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514490591952	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514490594103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514490594112	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+[Parent 748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514491110766	geckodriver	INFO	geckodriver 0.19.1
+1514491110789	geckodriver	INFO	Listening on 127.0.0.1:56283
+1514491114071	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Rahul\\AppData\\Local\\Temp\\rust_mozprofile.Si2ws0h9CUv4"
+1514491131104	Marionette	INFO	Enabled via --marionette
+1514491139574	Marionette	INFO	Listening on port 56291
+1514491140805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514491141131	Marionette	DEBUG	Register listener.js for window 4294967297
+1514491145032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514491147161	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514491147162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514491148668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/index.jsp"
+1514491149307	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/index.jsp"
+1514491149818	Marionette	DEBUG	Received DOM event "beforeunload" for "https://q3.innotas.io/index.jsp"
+1514491151834	Marionette	DEBUG	Received DOM event "pagehide" for "https://q3.innotas.io/index.jsp"
+1514491151836	Marionette	DEBUG	Received DOM event "unload" for "https://q3.innotas.io/index.jsp"
+1514491153628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+1514491153637	Marionette	DEBUG	Received DOM event "pageshow" for "https://q3.innotas.io/home.pa#%5BT1%2CM640%5D"
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+JavaScript warning: https://q3.innotas.io/ext/workspace/build/production/Innotas/classic-azul/classic-azul/app.js?_dc=20171228002453, line 1: unreachable code after return statement
+[Parent 4680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

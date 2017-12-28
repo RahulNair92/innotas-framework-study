@@ -44,6 +44,9 @@ class WebDriverFactory():
             # Set ie driver
             driver = webdriver.Ie()
         elif self.browser == "firefox":
+            firefoxdriver = "C://Users//Rahul//AppData//Local//gecko-drivers"
+            os.environ["firefox.driver"] = firefoxdriver
+            # self.driver = webdriver.Chrome(firefoxdriver)
             driver = webdriver.Firefox()
         elif self.browser == "chrome":
             # Set chrome driver
