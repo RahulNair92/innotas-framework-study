@@ -2,6 +2,7 @@ import utilities.custom_logger as cl
 from pages.home.nav import nav_bar
 import logging
 from base.basepage import BasePage
+from tests.Resources.resource_csv_data import resourceData as RD
 from base.selenium_driver import SeleniumDriver as SD
 
 from selenium.webdriver.common.action_chains import ActionChains
@@ -27,7 +28,8 @@ class ResourcePage(BasePage):
 
     def fillDetails(self):
         _first_name = "//form[@name='Resources']//td//following::input[@name='firstName']"
-        SD.sendKeys(data="Rahul",element=_first_name)
+        fname= self.getElement(locator=_first_name,locatorType="xpath")
+        self.sendKeys(data="Rahul",element=fname)
 
     def navigateResources(self):
         self.log.info("reached navigate to resource function")
@@ -51,17 +53,22 @@ class ResourcePage(BasePage):
         length= str(len(list))
         self.log.info("no of elements found with new button xpath " + length)
         self.clickButton(element)
+        self.driver.implicitly_wait(5)
 
         #handle windows
         handles = self.driver.window_handles
+        self.log.info("window handles " + handles[0] + " " + handles[1])
 
         for item in handles:
-            if self.driver.title() in self._newResourcepageTitle_:
-                self.driver.switch_to(item)
+            if self._newResourcepageTitle_ in self.driver.title :
+                self.log.info("Found window with this title")
+                self.log.infp(str(item))
                 break
             else:
-                self.log.info("unable to find window with this title")
-        self.fillDetails()
+                self.log.info("unable to find window with this title " + self.driver.title)
+            self.driver.switch_to_window(item)
+
+        RD.test_enterdata()
 
 
 
