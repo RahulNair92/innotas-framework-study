@@ -21,4 +21,4 @@ class newResourceTest(unittest.TestCase):
         self.log.info("#"*20)
         self.log.info("testcase for new Resources started")
         self.log.info("#" * 20)
-        self.rp.resourceCreate(self)
+        self.rp.resourceCreate()

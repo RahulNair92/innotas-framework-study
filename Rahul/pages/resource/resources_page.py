@@ -3,6 +3,7 @@ from pages.home.nav import nav_bar
 import logging
 from base.basepage import BasePage
 from base.selenium_driver import SeleniumDriver as SD
+
 from selenium.webdriver.common.action_chains import ActionChains
 
 
@@ -19,8 +20,9 @@ class ResourcePage(BasePage):
 
     # locators
 
-    _newResource_btn ="//div[contains(@id, 'resourcenavigationview')]//following::span[contains(text(), 'New')]"
+    _newResource_btn ="//div[contains(@id,'resourcenavigationview')]//following::span[contains(text(),'New')]"
     _resourceTab_ = "//a[@aria-label='Resources' and @href='home.pa#%5BT7%5D']"
+    _newResourcepageTitle_="Create a new Resource"
 
 
     def fillDetails(self):
@@ -29,7 +31,7 @@ class ResourcePage(BasePage):
 
     def navigateResources(self):
         self.log.info("reached navigate to resource function")
-        element=SD.waitForElement(locator= self._resourceTab_ , locatorType="xpath")
+        element= self.waitForElement(locator= self._resourceTab_ , locatorType="xpath")
         self.elementClick(element=element)
 
 
@@ -44,13 +46,17 @@ class ResourcePage(BasePage):
         self.navigateResources()
 
         #clck new btn
-        element= SD.waitForElement(locatorType="xpath", locator=self._newResource_btn)
-        SD.elementClick(element)
+        element= self.waitForElement(locatorType="xpath", locator=self._newResource_btn, timeout=20)
+        list= self.driver.find_elements_by_xpath("//div[contains(@id,'resourcenavigationview')]//following::span[contains(text(),'New')]")
+        length= str(len(list))
+        self.log.info("no of elements found with new button xpath " + length)
+        self.clickButton(element)
 
         #handle windows
         handles = self.driver.window_handles
+
         for item in handles:
-            if "Create a new Resource" in self.driver.title():
+            if self.driver.title() in self._newResourcepageTitle_:
                 self.driver.switch_to(item)
                 break
             else:

@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eacdfb82-45ac-42e7-bb6d-49be3801276b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/home/automation.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/resource/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/resource/resources_page.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/Resources/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/Resources/test_resource.py" />
-      <change beforePath="$PROJECT_DIR$/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.cache/v/cache/lastfailed" />
-      <change beforePath="$PROJECT_DIR$/.idea/letskodeit.iml" afterPath="$PROJECT_DIR$/.idea/letskodeit.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/automation.log" afterPath="$PROJECT_DIR$/automation.log" />
-      <change beforePath="$PROJECT_DIR$/base/webdriverfactory.py" afterPath="$PROJECT_DIR$/base/webdriverfactory.py" />
+      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" afterPath="$PROJECT_DIR$/base/selenium_driver.py" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change beforePath="$PROJECT_DIR$/pages/home/nav.py" afterPath="$PROJECT_DIR$/pages/home/nav.py" />
-      <change beforePath="$PROJECT_DIR$/tests/automation.log" afterPath="$PROJECT_DIR$/tests/automation.log" />
-      <change beforePath="$PROJECT_DIR$/tests/home/login_tests_home.py" afterPath="$PROJECT_DIR$/tests/home/login_tests_home.py" />
+      <change beforePath="$PROJECT_DIR$/pages/resource/resources_page.py" afterPath="$PROJECT_DIR$/pages/resource/resources_page.py" />
+      <change beforePath="$PROJECT_DIR$/tests/Resources/test_resource.py" afterPath="$PROJECT_DIR$/tests/Resources/test_resource.py" />
     </list>
     <ignored path="letskodeit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +29,8 @@
       <file leaf-file-name="resources_page.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/resource/resources_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -51,23 +41,9 @@
       <file leaf-file-name="test_resource.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/Resources/test_resource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/home/nav.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="e#1#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="54" lean-forward="true" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,8 +51,8 @@
       <file leaf-file-name="automation.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/automation.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="410" column="42" lean-forward="true" selection-start-line="410" selection-start-column="31" selection-end-line="410" selection-end-column="42" />
+            <state relative-caret-position="404">
+              <caret line="601" column="56" lean-forward="true" selection-start-line="601" selection-start-column="56" selection-end-line="601" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -86,7 +62,31 @@
         <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="211" column="8" lean-forward="false" selection-start-line="211" selection-start-column="8" selection-end-line="211" selection-end-column="8" />
+              <caret line="212" column="8" lean-forward="false" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page_innotas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/home/login_page_innotas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-714">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basepage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/basepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -137,7 +137,6 @@
         <option value="$PROJECT_DIR$/utilities/read_data.py" />
         <option value="$PROJECT_DIR$/pages/home/login_page.py" />
         <option value="$PROJECT_DIR$/tests/test_suite_innotas.py" />
-        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
         <option value="$PROJECT_DIR$/pages/home/login_page_innotas.py" />
         <option value="$PROJECT_DIR$/base/webdriverfactory.py" />
         <option value="$PROJECT_DIR$/tests/home/login_tests_home.py" />
@@ -145,6 +144,7 @@
         <option value="$PROJECT_DIR$/automation.log" />
         <option value="$PROJECT_DIR$/pages/home/nav.py" />
         <option value="$PROJECT_DIR$/tests/Resources/test_resource.py" />
+        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
         <option value="$PROJECT_DIR$/pages/resource/resources_page.py" />
       </list>
     </option>
@@ -174,6 +174,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +235,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -495,6 +495,14 @@
       <option name="presentableId" value="Default" />
       <updated>1465770877342</updated>
     </task>
+    <task id="LOCAL-00001" summary="resource creation testcase started">
+      <created>1514491410061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514491410061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -529,16 +537,16 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3028274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3028274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32594937" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32512316" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32512316" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.29228243" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="true" show_stripe_button="true" weight="0.29228243" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39901477" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -561,6 +569,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resource creation testcase started" />
+    <option name="LAST_COMMIT_MESSAGE" value="resource creation testcase started" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -568,9 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/questions/test_login_frame.py" />
-    <entry file="file://$PROJECT_DIR$/questions/sign_page.py" />
-    <entry file="file://$PROJECT_DIR$/oren/selenium_driver.py" />
     <entry file="file://$PROJECT_DIR$/oren/webdriverfactory.py" />
     <entry file="file://$PROJECT_DIR$/oren/login_page.py" />
     <entry file="file://$PROJECT_DIR$/oren/test_login.py" />
@@ -721,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4403">
           <caret line="259" column="20" lean-forward="false" selection-start-line="259" selection-start-column="20" selection-end-line="259" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,9 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#203#219#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,9 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,29 +765,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/resource/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenshots/element not found.1513537869854.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home/resource/__init__.py" />
     <entry file="file://$PROJECT_DIR$/tests/home/login_tests_home.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home/nav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
-            <element signature="e#0#51#0" expanded="false" />
+            <element signature="e#1#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -801,54 +796,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/home/login_page_innotas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state relative-caret-position="-714">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="211" column="8" lean-forward="false" selection-start-line="211" selection-start-column="8" selection-end-line="211" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/nav.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#1#37#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Resources/test_resource.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="54" lean-forward="true" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/element not found.1513615938653.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/element not found.1513537869854.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/element not found.1514570100065.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/element not found.1514570089139.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/automation.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="410" column="42" lean-forward="true" selection-start-line="410" selection-start-column="31" selection-end-line="410" selection-end-column="42" />
+        <state relative-caret-position="404">
+          <caret line="601" column="56" lean-forward="true" selection-start-line="601" selection-start-column="56" selection-end-line="601" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="212" column="8" lean-forward="false" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/resource/resources_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="289">
+          <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>

@@ -3,6 +3,7 @@ from traceback import print_stack
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
+from selenium.webdriver.common.action_chains import ActionChains
 import utilities.custom_logger as cl
 import logging
 import time
@@ -240,3 +241,8 @@ class SeleniumDriver():
         if direction == "down":
             # Scroll Down
             self.driver.execute_script("window.scrollBy(0, 1000);")
+
+
+    def clickButton(self, element):
+        actn = ActionChains(self.driver)
+        actn.move_to_element(element).click(element).perform()

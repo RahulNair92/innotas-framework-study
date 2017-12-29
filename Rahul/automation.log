@@ -420,3 +420,189 @@
 12/29/2017 01:29:13 AM - newResourceTest - INFO: ####################
 12/29/2017 01:29:13 AM - newResourceTest - INFO: testcase for new Resources started
 12/29/2017 01:29:13 AM - newResourceTest - INFO: ####################
+12/29/2017 07:26:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/29/2017 07:26:22 PM - LoginTests - INFO: test_t1invalidLogin started
+12/29/2017 07:26:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/29/2017 07:26:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/29/2017 07:26:22 PM - LoginTests - INFO: test_validLogin started
+12/29/2017 07:26:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+12/29/2017 07:27:53 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 07:27:53 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 07:27:53 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 07:27:54 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 07:27:54 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 07:27:54 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 07:27:54 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 07:27:58 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 07:27:58 PM - newResourceTest - INFO: ####################
+12/29/2017 07:27:58 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 07:27:58 PM - newResourceTest - INFO: ####################
+12/29/2017 07:30:59 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 07:30:59 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 07:31:00 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 07:31:00 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 07:31:00 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 07:31:00 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 07:31:00 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 07:31:05 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 07:31:05 PM - newResourceTest - INFO: ####################
+12/29/2017 07:31:05 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 07:31:05 PM - newResourceTest - INFO: ####################
+12/29/2017 10:33:57 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 10:33:57 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 10:33:57 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 10:33:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 10:33:58 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 10:33:58 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 10:33:58 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 10:34:02 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 10:34:02 PM - newResourceTest - INFO: ####################
+12/29/2017 10:34:02 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 10:34:02 PM - newResourceTest - INFO: ####################
+12/29/2017 10:34:02 PM - ResourcePage - INFO: ####################
+12/29/2017 10:34:02 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 10:34:02 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 10:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 10:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 10:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 10:41:07 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 10:41:07 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 10:41:07 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 10:41:07 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 10:41:11 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 10:41:11 PM - newResourceTest - INFO: ####################
+12/29/2017 10:41:11 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 10:41:11 PM - newResourceTest - INFO: ####################
+12/29/2017 10:41:11 PM - ResourcePage - INFO: ####################
+12/29/2017 10:41:11 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 10:41:11 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 10:41:11 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 10:41:20 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 10:41:21 PM - ResourcePage - INFO: Clicked on element with locator:  locatorType: id
+12/29/2017 10:41:21 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 10:41:26 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 10:49:15 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 10:49:15 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 10:49:15 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 10:49:15 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 10:49:15 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 10:49:15 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 10:49:15 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 10:49:20 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 10:49:20 PM - newResourceTest - INFO: ####################
+12/29/2017 10:49:20 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 10:49:20 PM - newResourceTest - INFO: ####################
+12/29/2017 10:49:20 PM - ResourcePage - INFO: ####################
+12/29/2017 10:49:20 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 10:49:20 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 10:49:20 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 10:49:28 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 10:49:29 PM - ResourcePage - INFO: Clicked on element with locator:  locatorType: id
+12/29/2017 10:49:29 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 10:49:34 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 11:00:31 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:00:31 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:00:31 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:00:32 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 11:00:32 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:00:32 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 11:00:32 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 11:00:39 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 11:00:39 PM - newResourceTest - INFO: ####################
+12/29/2017 11:00:39 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 11:00:39 PM - newResourceTest - INFO: ####################
+12/29/2017 11:00:39 PM - ResourcePage - INFO: ####################
+12/29/2017 11:00:39 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 11:00:39 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 11:00:39 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:00:53 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 11:00:54 PM - ResourcePage - INFO: Clicked on element with locator:  locatorType: id
+12/29/2017 11:00:54 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:01:04 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 11:01:07 PM - ResourcePage - INFO: no of elements found with new button xpath 1
+12/29/2017 11:04:38 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:04:38 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:04:38 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:04:38 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 11:04:38 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:04:38 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 11:04:38 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 11:04:45 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 11:04:45 PM - newResourceTest - INFO: ####################
+12/29/2017 11:04:45 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 11:04:45 PM - newResourceTest - INFO: ####################
+12/29/2017 11:04:45 PM - ResourcePage - INFO: ####################
+12/29/2017 11:04:45 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 11:04:45 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 11:04:45 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:04:57 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 11:04:58 PM - ResourcePage - INFO: Clicked on element with locator:  locatorType: id
+12/29/2017 11:04:58 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:05:02 PM - ResourcePage - INFO: Element appeared on the web page
+12/29/2017 11:05:02 PM - ResourcePage - INFO: no of elements found with new button xpath 1
+12/29/2017 11:14:54 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:14:54 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:14:54 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:14:55 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 11:14:55 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:14:55 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 11:14:55 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 11:15:08 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 11:15:08 PM - newResourceTest - INFO: ####################
+12/29/2017 11:15:08 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 11:15:08 PM - newResourceTest - INFO: ####################
+12/29/2017 11:15:08 PM - ResourcePage - INFO: ####################
+12/29/2017 11:15:08 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 11:15:08 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 11:15:08 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:15:26 PM - ResourcePage - INFO: Element not appeared on the web page
+12/29/2017 11:15:26 PM - ResourcePage - INFO: Screenshot save to directory: C:\Users\Rahul\myProjects\innotas-framework-study\Rahul\base\../screenshots/element not found.1514569526193.png
+12/29/2017 11:15:28 PM - ResourcePage - INFO: Cannot click on the element with locator:  locatorType: id
+12/29/2017 11:15:28 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:15:45 PM - ResourcePage - INFO: Element not appeared on the web page
+12/29/2017 11:15:46 PM - ResourcePage - INFO: Screenshot save to directory: C:\Users\Rahul\myProjects\innotas-framework-study\Rahul\base\../screenshots/element not found.1514569545959.png
+12/29/2017 11:15:49 PM - ResourcePage - INFO: no of elements found with new button xpath 0
+12/29/2017 11:21:05 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:21:05 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:21:05 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:21:07 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 11:21:07 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:21:07 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 11:21:07 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 11:21:13 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 11:21:13 PM - newResourceTest - INFO: ####################
+12/29/2017 11:21:13 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 11:21:13 PM - newResourceTest - INFO: ####################
+12/29/2017 11:21:13 PM - ResourcePage - INFO: ####################
+12/29/2017 11:21:13 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 11:21:13 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 11:21:13 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:21:23 PM - ResourcePage - INFO: Element not appeared on the web page
+12/29/2017 11:21:24 PM - ResourcePage - INFO: Screenshot save to directory: C:\Users\Rahul\myProjects\innotas-framework-study\Rahul\base\../screenshots/element not found.1514569883945.png
+12/29/2017 11:21:25 PM - ResourcePage - INFO: Cannot click on the element with locator:  locatorType: id
+12/29/2017 11:21:25 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:21:37 PM - ResourcePage - INFO: Element not appeared on the web page
+12/29/2017 11:21:47 PM - ResourcePage - INFO: Screenshot save to directory: C:\Users\Rahul\myProjects\innotas-framework-study\Rahul\base\../screenshots/element not found.1514569897168.png
+12/29/2017 11:21:51 PM - ResourcePage - INFO: no of elements found with new button xpath 0
+12/29/2017 11:24:32 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:24:32 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:24:32 PM - LoginPage - INFO: Element found with locator: //*[@id='login'] and  locatorType: xpath
+12/29/2017 11:24:33 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='login'] locatorType: xpath
+12/29/2017 11:24:33 PM - LoginPage - INFO: Element found with locator: //*[@id='password'] and  locatorType: xpath
+12/29/2017 11:24:33 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='password'] locatorType: xpath
+12/29/2017 11:24:33 PM - LoginPage - INFO: Element found with locator: //button[contains(text(), 'Log in to Innotas')] and  locatorType: xpath
+12/29/2017 11:24:37 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Log in to Innotas')] locatorType: xpath
+12/29/2017 11:24:37 PM - newResourceTest - INFO: ####################
+12/29/2017 11:24:37 PM - newResourceTest - INFO: testcase for new Resources started
+12/29/2017 11:24:37 PM - newResourceTest - INFO: ####################
+12/29/2017 11:24:37 PM - ResourcePage - INFO: ####################
+12/29/2017 11:24:37 PM - ResourcePage - INFO: Reached def resourceCreate
+12/29/2017 11:24:37 PM - ResourcePage - INFO: reached navigate to resource function
+12/29/2017 11:24:37 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:24:49 PM - ResourcePage - INFO: Element not appeared on the web page
+12/29/2017 11:24:49 PM - ResourcePage - INFO: Screenshot save to directory: C:\Users\Rahul\myProjects\innotas-framework-study\Rahul\base\../screenshots/element not found.1514570089139.png
+12/29/2017 11:24:49 PM - ResourcePage - INFO: Cannot click on the element with locator:  locatorType: id
+12/29/2017 11:24:49 PM - ResourcePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/29/2017 11:25:00 PM - ResourcePage - INFO: Element not appeared on the web page
+12/29/2017 11:25:00 PM - ResourcePage - INFO: Screenshot save to directory: C:\Users\Rahul\myProjects\innotas-framework-study\Rahul\base\../screenshots/element not found.1514570100065.png
+12/29/2017 11:25:03 PM - ResourcePage - INFO: no of elements found with new button xpath 0
